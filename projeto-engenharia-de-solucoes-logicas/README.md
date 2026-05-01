@@ -26,6 +26,3 @@ Atualmente, o projeto está em fase de modelagem lógica:
 1.  Analise o fluxograma para entender a hierarquia de decisão[cite: 2].
 2.  O pseudocódigo pode ser testado em interpretadores de algoritmos compatíveis com a sintaxe "Escreva/Leia"[cite: 2].
 3.  Insira os dados vitais conforme solicitado pelo prompt para obter o diagnóstico de risco[cite: 2].
-
----
-[Voltar ao início](https://github.com/seu-usuario/seu-usuario)
