@@ -40,7 +40,7 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | **Algoritimo de Auditoria de Dados** |Um programa que analisa a consistência de dados financeiros, utilizando escopo globar/local para parâmetros de segurança e lógica condicional | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
  **Engenharia de Soluções Lógicas** |Um programa que consiste no desenvolvimento da lógica para um sistema de triagem hospitalar automatizado. Realiza a classificação preliminar de pacientes com base em sinais vitais e critérios demográficos, auxiliando na priorização do atendimento médico através de níveis de risco | [Ver Projeto](./projeto-engenharia-de-solucoes-logicas/) |
  **Lógica para Python** |Um programa que reúne uma suíte de scripts desenvolvidos para automatizar fluxos de decisão lógica em ambientes corporativos e de monitoramento ambiental. O foco do projeto é a implementação de algoritmos robustos que lidam com validação de dados, cálculos estatísticos simples e automação de regras de negócio | [Ver Projeto](./projeto-logica-para-pyton/) |
----
+**Engenharia de contexto e Lógica Física** |Um programa que reúne ferramentas de software voltadas para a análise da qualidade de vida urbana e a validação de protocolos de segurança predial. O projeto integra cálculos avançados de conforto térmico e atmosférico com um motor de simulação de evacuação, permitindo uma visão holística da segurança e bem-estar em ambientes habitados | [Ver Projeto](./engenharialogfisica/) |---
  
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
